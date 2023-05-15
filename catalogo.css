@@ -9,7 +9,7 @@ body
 .card
 {
   height: 500px;
-  width: 50px;
+  width: 250px;
   margin: 10px;
   box-shadow: 5px 5px 20px black;
   overflow: hidden;
@@ -20,7 +20,7 @@ body
 .card-body
 {
     height: 70px;
-    width: 50px;
+    width: 350px;
     padding: 6px;
     box-sizing: border-box;
     transition: .5s;
